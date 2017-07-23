@@ -7,4 +7,4 @@ const MyPlugin = {
   }
 };
 
-exports = MyPlugin;
+module.exports = MyPlugin;
