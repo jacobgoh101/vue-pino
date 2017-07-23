@@ -1,0 +1,26 @@
+{
+  "name": "vue-pino",
+  "version": "0.0.1",
+  "description": "Simple VueJs wrapper for Pino logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobgoh101/vue-pino.git"
+  },
+  "keywords": [
+    "vuejs",
+    "pino"
+  ],
+  "author": "Jacob Goh <jacobgoh101@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacobgoh101/vue-pino/issues"
+  },
+  "homepage": "https://github.com/jacobgoh101/vue-pino#readme",
+  "dependencies": {
+    "pino": "*"
+  }
+}
