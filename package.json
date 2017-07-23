@@ -1,6 +1,6 @@
 {
   "name": "vue-pino",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple VueJs wrapper for Pino logger",
   "main": "index.js",
   "scripts": {
